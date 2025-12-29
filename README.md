@@ -8,7 +8,7 @@ I'm a computer science BSMS student at Georgia Tech specializing in Machine Lear
 
 Passionate about creating intuitive, user-centric solutions that bridge the gap between human cognition and complex data. I have a proven track record of processing 100M+ data points and optimizing systems for <200ms p95 latency.
 
-### 📊 My favorites!
+### My Projects
 
 <p align="left">
   <a href="https://github.com/asaha96/PaperPilot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asaha96&repo=PaperPilot&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="PaperPilot"></a>
