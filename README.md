@@ -4,17 +4,20 @@
   <img src="https://raw.githubusercontent.com/asaha96/asaha96/main/assets/aritragh.jpg" alt="aritragh" />
 </div>
 
-I'm a computer science BSMS student at Georgia Tech specializing in Machine Learning and Human-Computer Interaction. Currently, I develop intelligent systems and high-scale data pipelines, with a focus on "Cognitive Scaffolding" to make complex information accessible. My recent projects include:
-
-**PaperPilot**: A spatial research platform using local Ollama models and Graph-RAG to visualize research papers as interactive knowledge maps.
-
-**SafeSheet**: A database reliability tool that acts as a "flight simulator" for SQL, generating idempotent rollbacks to prevent accidental data loss.
-
-**Leit**: An AI-enhanced Canvas LTI 1.3 platform that automates study workflows and flashcard generation for thousands of students.
-
-**ChatGT**: A private, on-device LLM platform designed to provide secure ML assistance for university coursework.
+I'm a computer science BSMS student at Georgia Tech specializing in Machine Learning and Human-Computer Interaction. Currently, I develop intelligent systems and high-scale data pipelines, with a focus on "Cognitive Scaffolding" to make complex information accessible.
 
 Passionate about creating intuitive, user-centric solutions that bridge the gap between human cognition and complex data. I have a proven track record of processing 100M+ data points and optimizing systems for <200ms p95 latency.
+
+### 📊 My favorites!
+
+<p align="left">
+  <a href="https://github.com/asaha96/PaperPilot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asaha96&repo=PaperPilot&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="PaperPilot"></a>
+  <a href="https://github.com/asaha96/BSM-Research"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asaha96&repo=BSM-Research&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="BSM-Research"></a>
+  <a href="https://github.com/asaha96/Aritra-Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asaha96&repo=Aritra-Portfolio&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Aritra-Portfolio"></a>
+  <a href="https://github.com/asaha96/SafeSheet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asaha96&repo=SafeSheet&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="SafeSheet"></a>
+  <a href="https://github.com/asaha96/Leit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asaha96&repo=Leit&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Leit"></a>
+  <a href="https://github.com/Sectonic/Layout"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sectonic&repo=Layout&theme=tokyonight&hide_border=true&show_icons=true&show_description=true" alt="Layout"></a>
+</p>
 
 📫 **How to reach me**: asaha96@gatech.edu  
 🌐 **Visit my website**: [aritrasaha.com](https://www.aritrasaha.com/)  
