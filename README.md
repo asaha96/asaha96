@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aritra Saha</h1>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asaha96/asaha96/output/aritragh.svg" alt="aritragh" />
+</div>
+
 I'm a computer science BSMS student at Georgia Tech specializing in Machine Learning and Human-Computer Interaction. Currently, I develop intelligent systems and high-scale data pipelines, with a focus on "Cognitive Scaffolding" to make complex information accessible. My recent projects include:
 
 **PaperPilot**: A spatial research platform using local Ollama models and Graph-RAG to visualize research papers as interactive knowledge maps.
