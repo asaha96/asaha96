@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aritra Saha</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asaha96/asaha96/main/aritragh.jpg" alt="aritragh" />
+  <img src="https://raw.githubusercontent.com/asaha96/asaha96/main/assets/aritragh.jpg" alt="aritragh" />
 </div>
 
 I'm a computer science BSMS student at Georgia Tech specializing in Machine Learning and Human-Computer Interaction. Currently, I develop intelligent systems and high-scale data pipelines, with a focus on "Cognitive Scaffolding" to make complex information accessible. My recent projects include:
@@ -17,6 +17,7 @@ I'm a computer science BSMS student at Georgia Tech specializing in Machine Lear
 Passionate about creating intuitive, user-centric solutions that bridge the gap between human cognition and complex data. I have a proven track record of processing 100M+ data points and optimizing systems for <200ms p95 latency.
 
 📫 **How to reach me**: asaha96@gatech.edu  
+🌐 **Visit my website**: [aritrasaha.com](https://www.aritrasaha.com/)  
 📄 **Know about my experiences**: [linkedin.com/in/aritra-sahal](https://linkedin.com/in/aritra-sahal)
 
 ## Languages and Tools:
