@@ -2,7 +2,7 @@
 
 A passionate developer, researcher, and problem solver.
 
-I'm a computer science graduate student at Georgia Tech (4.0 GPA) specializing in Machine Learning and Human-Computer Interaction. Currently, I develop intelligent systems and high-scale data pipelines, with a focus on "Cognitive Scaffolding" to make complex information accessible. My recent projects include:
+I'm a computer science BSMS student at Georgia Tech specializing in Machine Learning and Human-Computer Interaction. Currently, I develop intelligent systems and high-scale data pipelines, with a focus on "Cognitive Scaffolding" to make complex information accessible. My recent projects include:
 
 **PaperPilot**: A spatial research platform using local Ollama models and Graph-RAG to visualize research papers as interactive knowledge maps.
 
