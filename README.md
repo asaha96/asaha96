@@ -55,4 +55,6 @@ Passionate about creating intuitive, user-centric solutions that bridge the gap 
 
 ## GitHub Contributions Snake
 
-![Snake animation](https://raw.githubusercontent.com/asaha96/asaha96/output/github-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asaha96/asaha96/output/github-snake.svg" alt="Snake animation" width="100%" />
+</div>
